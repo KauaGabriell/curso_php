@@ -5,14 +5,7 @@
 
     //Exemplo com variável
 
-    if(is_int("oi")){
+    if(is_int(3)){
         echo "This is a integer";
-    }else{
-        echo "This is a string";
     }
     
-    $a = 90;
-
-    if(is_int($a)){
-        echo "É um inteiro";
-    }
