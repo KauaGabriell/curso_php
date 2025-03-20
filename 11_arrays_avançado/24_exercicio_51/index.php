@@ -7,7 +7,7 @@ $arr = [
     "Mari" => 100
 ];
 $colocacao = 1;
-arsort(($arr));
+
 ?>
 
 <ul>
