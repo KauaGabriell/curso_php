@@ -19,7 +19,7 @@ class Carro extends Veiculo{
     
 }
 
-$carro = new Veiculo();
+$carro = new Carro();
 $carro->setModelo("BMW X6");
 echo $carro->getModelo();
 var_dump($carro);
